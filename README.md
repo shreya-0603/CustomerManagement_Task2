@@ -1,5 +1,5 @@
 # CustomerManagement_Task2
-To run this Task go to the branches and choose CustomerManagement branch. After installing everything run Server file using node server.js and then run simlator file using simulator.js.
+To run this Task go to the branches and choose CustomerManagement branch. After installing everything run Server file using node server.js and then run simlator file using node simulator.js.
 
 output:
 Run server.js
